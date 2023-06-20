@@ -1,0 +1,2 @@
+# Resolution-of-the-Vacuum-Cleaner-Problem-with-Artificial-Intelligence.
+In this Python project, we solve the vacuum cleaner problem using a random-based approach. Our virtual agent performs random movements to clean the room. We use the Pygame library to visualize the results. It's a simple and interactive approach to understand the impact of randomness in solving artificial intelligence problems.
